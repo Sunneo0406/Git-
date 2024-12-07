@@ -1,0 +1,1 @@
+使用git前需安裝git並到Github help網頁找尋ssh金鑰
